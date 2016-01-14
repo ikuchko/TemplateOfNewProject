@@ -1,4 +1,4 @@
-# Scrabble Score Page.
+# Scrabble Score Page
 
 ##### Using java methods, our app adds your scrabble score. Original draft September 2015.
 
